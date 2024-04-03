@@ -1,6 +1,3 @@
-# number_guessing
-
-//number guessing game in c++
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
